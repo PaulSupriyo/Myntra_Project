@@ -5,6 +5,7 @@ import FetchItems from "../components/Fetchitems";
 import { useSelector } from "react-redux";
 import LoadingSpinner from "../components/LoadingSpinner";
 
+
 function App() {
   const fetchStatus = useSelector((store) => store.fetchStatus);
 
