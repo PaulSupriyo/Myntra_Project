@@ -2,7 +2,7 @@ Myntra Clone - Full Functional Features
 
 
 1. Home Page with Dynamic Product Display
-2. 
+
 Feature: A visually rich homepage displaying product categories and featured items.
 Details:
 Products are dynamically fetched using APIs and rendered on the page.
